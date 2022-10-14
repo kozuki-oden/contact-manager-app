@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "a9cbc041-a57e-47ae-9b7b-deceb1f93d8f",
+      "name": "Aditya Sood",
+      "email": "AdityaWet@gmail.com"
+    },
+    {
+      "id": "82c2405b-999b-4736-9d4e-e06bf9bddd14",
+      "name": "Saksham Somra",
+      "email": "SakshamWet@gmail.com"
+    },
+    {
+      "id": "77037f98-f596-4f76-aab9-64fd82e95387",
+      "name": "Sauravpal Rana",
+      "email": "SauravWet@gmail.com"
+    },
+    {
+      "id": "3c6e0327-57b9-410a-95ee-9f4d3c0280ac",
+      "name": "Tanish Jindal",
+      "email": "TanishWet@gmail.com"
+    }
+  ]
+}
